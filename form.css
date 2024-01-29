@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    font-size: 25px;
+}
+
+button:hover{
+    height: 30px;
+    background-color: lime;
+   border-radius: 10px;
+font-family: "DejaVu Serif";
+}
+.qq{
+    border-radius: 40px;
+   width: 40%;
+    height: 40px;
+    background-color: #4d4d69;
+padding: 10px;
+    color: darkgoldenrod;
+}
+
+.ww{
+    border-radius: 4px;
+    width: 40%;
+    height: 60px;
+    background-color: grey;
+}
